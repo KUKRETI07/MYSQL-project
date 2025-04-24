@@ -1,6 +1,6 @@
 # Retail Store Sales Analysis
 
-Overview
+# Overview
 
 This project focuses on analyzing a retail store's performance using pure SQL. It involves multiple interlinked datasets (products, sales, customers, orders, etc.), and answers real business questions through joins, filtering, aggregation, subqueries, and more. 
 The goal was to generate valuable insights into customer behavior, product performance, and overall sales trends.
