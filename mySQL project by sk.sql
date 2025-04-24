@@ -1,9 +1,9 @@
                                         #PROJECT
                                         
-	# data used - shubham and tables are 
-				#- customer_details
+	# data used - 
+		#- customer_details
                 #- sales_details
-				#- product_details
+		#- product_details
                 #- region
                 
 /*Q1
